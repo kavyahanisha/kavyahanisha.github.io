@@ -327,7 +327,9 @@ ul.list-check li::before {
 	font-size: 42px;
 	line-height: 60px;
 	margin-bottom: 1px;
-    color: 	#EF4637;
+
+  color: #FFFFFF
+  /*  color: 	#EF4637; */
 	/*color: 	#18243E;*/
 }
 
