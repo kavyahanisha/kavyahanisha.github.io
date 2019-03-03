@@ -281,13 +281,15 @@ ul.list-check li::before {
 }
 
 #home {
-	background: url(../images/kh1.jpg) no-repeat center center;
+	background: url(../images/kh1.jpg) no-repeat right; /*center center;*/
 	-webkit-background-attachment: fixed;
     background-attachment: fixed;
-	background-color: #222;
-	background-size: cover;
+	/*background-color: #222;*/
+  background-color: #7CFC00
+  background-position: cover;
+	/*background-size: cover;*/
 	padding: 0;
-	position: relative;
+	/*position: relative;*/
 }
 
 #home:before {
