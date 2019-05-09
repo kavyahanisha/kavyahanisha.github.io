@@ -281,7 +281,7 @@ ul.list-check li::before {
 }
 
 #home {
-	background: url(../images/kh1.jpg) no-repeat right; /*center center;*/
+	background: url(../images/cherry.jpg) no-repeat right; /*center center;*/
 	-webkit-background-attachment: fixed;
     background-attachment: fixed;
 	/*background-color: #222;*/
